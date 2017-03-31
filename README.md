@@ -5,7 +5,7 @@
 
 <table>
 
-<b><i>bharat sanchar nigam limited</i></b>
+<b><i>Bharat Sanchar Nigam Limited</i></b>
 
 <tr>
 
