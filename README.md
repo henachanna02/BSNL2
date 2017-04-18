@@ -5,14 +5,17 @@
 <tr>
 <th><b>Page Title</b></th>
 </tr>
+
 <tr>
-<th><b>Suggestion Box</b></th>
-</tr> 
+<col>Suggestion Box</col>
+</tr>
+
 <tr>
 
 <th>Page Title</th>
 
-<td>the search engines will truncate page title to 65 characters </td>
+<td>the search engines will truncate page title to 65 characters. </td>
+
 
 </tr>
 
