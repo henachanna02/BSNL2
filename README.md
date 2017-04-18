@@ -1,13 +1,8 @@
 # BSNL2
 <html>
-
-
 <table>
-
 <b><i>Bharat Sanchar Nigam Limited</i></b>
-
 <tr>
-
 <th><b>page title</b></th>
 </tr>
 
