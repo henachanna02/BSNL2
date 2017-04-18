@@ -5,7 +5,9 @@
 <tr>
 <th><b>Page Title</b></th>
 </tr>
-
+<tr>
+<th><b>Suggestion Box</b></th>
+</tr> 
 <tr>
 
 <th>Page Title</th>
