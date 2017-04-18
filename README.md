@@ -3,12 +3,12 @@
 <b><i>Bharat Sanchar Nigam Limited</i></b>
 <table>
 <tr>
-<th><b>page title</b></th>
+<th><b>Page Title</b></th>
 </tr>
 
 <tr>
 
-<th>page title</th>
+<th>Page Title</th>
 
 <td>the search engines will truncate page title to 65 characters </td>
 
