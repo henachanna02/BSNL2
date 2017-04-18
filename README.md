@@ -7,10 +7,6 @@
 </tr>
 
 <tr>
-<col>Suggestion Box</col>
-</tr>
-
-<tr>
 
 <th>Page Title</th>
 
