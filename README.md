@@ -1,6 +1,6 @@
 # BSNL2
 <html>
-<marquee><b><i>Bharat Sanchar Nigam Limited</i></b></marquee>
+#<marquee><b><i>Bharat Sanchar Nigam Limited</i></b></marquee>
 <table>
 <tr>
 <th><b>Page Title</b></th>
